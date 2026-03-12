@@ -1,0 +1,5 @@
+# JSON
+Last updated: 2026-03-12
+
+## Overview
+JSON (JavaScript Object Notation, pronounced /ˈdʒeɪsən/; also /ˈdʒeɪˌsɒn/) is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays (or other serializable values). It is a very common data format with diverse uses in electronic data interchange, including that of web applications, and is a replacement of the XML format. JSON is built on two structures: 1) A collection of name/value pairs. In various languages, this is realized as an object, record, struct, dictionary, hash table, keyed list, or associative array. 2) An ordered list of values. In most languages, this is realized as an array, vector, list, or sequence. These are universal data structures supported by nearly all programming languages. Douglas Crockford originally specified the JSON format in the early 2000s. JSON is language-independent, with parsers available for all commonly used languages.

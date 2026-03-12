@@ -1,0 +1,5 @@
+# REST
+Last updated: 2026-03-12
+
+## Overview
+Representational State Transfer (REST) is a software architectural style that was created to guide the design and development of the architecture of a web service. It was defined by Roy Fielding in his 2000 doctoral dissertation and has since become the dominant web service design model. RESTful web services are characterized by the use of stateless operations on resources using HTTP methods like GET, POST, PUT, DELETE, and standard HTTP status codes. Key principles include client-server architecture, statelessness, cacheability, uniform interface (with resource identification, manipulation through representations, self-descriptive messages, and hypermedia as the engine of application state or HATEOAS), layered system, and code on demand (optional). REST emphasizes scalability, simplicity, and the use of hypermedia to enable loose coupling between client and server.
